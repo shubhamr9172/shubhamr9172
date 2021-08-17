@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Wordpress**
 
-- 👨‍💻 All of my projects are available at [https://shubhamr9172.github.io/shubhamreddy/](https://shubhamr9172.github.io/shubhamreddy/)
+- 👨‍💻 All of my projects are available at [https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/](https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/)
 
-- 📝 I regularly write articles on [https://reddyshubham9172.blogspot.com/](https://reddyshubham9172.blogspot.com/)
+- 📝 I regularly write articles on [https://shree-technology.blogspot.com/](https://shree-technology.blogspot.com/)
 
 - 📫 How to reach me **shubhamreddy9172@gmail.com**
 
