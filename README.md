@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamr9172&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamr9172" /> </p>
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/](https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/)
+- 👨‍💻 All of my projects are available at [shubhamreddy.me](https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/)
 
-- 📝 I regularly write articles on [https://shree-technology.blogspot.com/](https://shree-technology.blogspot.com/)
+- 📝 I regularly write articles on [shree-Technology](https://shree-technology.blogspot.com/)
 
 - 📫 How to reach me **shubhamreddy9172@gmail.com**
 
