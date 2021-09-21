@@ -13,7 +13,7 @@
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=shubhamr9172&show_icons=true&locale=en" alt="shubhamr9172" /></p>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **MongoDB**
 
 - 👨‍💻 All of my projects are available at [shubhamreddy.me](https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/)
 
