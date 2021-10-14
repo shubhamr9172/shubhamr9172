@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [shubhamreddy.me](https://shubhamr9172.github.io/Responsive-Portfolio-using-HTML-CSS/)
 
-- 📝 I regularly write articles on [shree-Technology](https://shree-technology.blogspot.com/)
+- 📝 I regularly write articles on [Shree-Tech](https://shree-technology.blogspot.com/)
 
 - 📫 How to reach me **shubhamreddy9172@gmail.com**
 
