@@ -1,89 +1,79 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=280&section=header&text=SHUBHAM%20REDDY&fontSize=80&fontColor=00f260&animation=fadeIn&fontAlignY=35&desc=Generative%20AI%20Engineer%20%7C%20Architecting%20Intelligence&descAlignY=60&descAlign=50&stroke=00f260&strokeWidth=2" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=280&section=header&text=SHUBHAM%20REDDY&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Founder%20of%20NexChain%20%7C%20GenAI%20Specialist&descAlignY=60&descAlign=50" width="100%" />
 </div>
 
-<div align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shubhamr9172&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Building+NexChain;Architecting+RAG+Pipelines;Fine-tuning+LLMs;Mastering+AI+Agents" alt="Typing SVG" />
   </a>
 </div>
 
 <br/>
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
+### 🚀 Mission: The 3-Month GenAI Roadmap
+I am currently executing an intensive **3-month learning roadmap** to become a top-tier **Generative AI Engineer**. My focus is on moving beyond simple API calls to building production-ready AI systems.
+
+- 🏗️ **Currently Building:** [NexChain](https://shree-technology.blogspot.com/) - My personal brand for AI/Tech insights.
+- 🧠 **Specializing In:** LLMs, RAG, and AI Agents.
+- 🛠️ **Latest Project:** [AI ATS Resume Checker](https://shubhamreddy.me) (Built with Google AI Studio).
+- 📚 **Education:** Deep diving into Data Structures and Algorithms for AI scalability.
+
+---
+
+### 💡 Project Spotlight
+<table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      <h2>⚡ The AI Singularity</h2>
-      
-      > _"I don't just write code; I train models to write it for me."_
-
-      <br/>
-
-      ```python
-      class AI_Engineer:
-          def __init__(self):
-              self.name = "Shubham Reddy"
-              self.role = "GenAI Specialist"
-              self.stack = ["LLMs", "RAG", "Agents"]
-              
-          def current_focus(self):
-              return "Building Autonomous Systems"
-      ```
-      
-      <br/> 
-      
-      <a href="https://linkedin.com/in/shubham-reddy-b3a15b158"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-      <a href="mailto:shubhamreddy9172@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-      <a href="https://shubhamreddy.me"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-      
+    <td width="50%" valign="top">
+      <h4>🤖 NexChain Blog</h4>
+      <p>A technical blog dedicated to demystifying Generative AI and LLM frameworks for developers.</p>
+      <code>Python</code> <code>Next.js</code> <code>NLP</code>
     </td>
-
-    <td width="40%" valign="center" align="center">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="200" height="200" />
-      <br/>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00F260&center=true&vCenter=true&width=300&lines=Fine-Tuning+Llama-3;Building+RAG+Pipelines;Prompt+Engineering;Data+Visualization" alt="Typing SVG" />
-      </a>
+    <td width="50%" valign="top">
+      <h4>📄 AI Resume ATS</h4>
+      <p>An application that uses Google Gemini to analyze resumes against job descriptions for better interview rates.</p>
+      <code>Google AI Studio</code> <code>Streamlit</code>
     </td>
   </tr>
 </table>
 
-<br/>
+---
 
-<h2 align="center">🧠 Neural Network (Tech Stack)</h2>
+### 🛠️ Technical Neural Network
 <div align="center">
+  <p align="left"><strong>Generative AI & LLMs:</strong></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,wandb,huggingface,langchain&theme=dark" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=docker,git,aws,gcp,mongodb,postgres,linux,bash&theme=dark" />
-    <br/><br/>
-    <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface,langchain&theme=dark" />
+  </a>
+  <br/><br/>
+  <p align="left"><strong>Backend & Data:</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgres,aws,gcp,docker,git&theme=dark" />
+  </a>
+  <br/><br/>
+  <p align="left"><strong>Frontend & Tools:</strong></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,js,vscode,linux,bash,figma&theme=dark" />
   </a>
 </div>
 
-<br/>
+---
 
-<h2 align="center">📊 Training Metrics</h2>
-
+### 📊 Training & Performance Metrics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubhamr9172&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00f260&icon_color=00f260" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamr9172&theme=react&hide_border=true&background=0D1117&ring=00f260&fire=00f260&currStreakLabel=00f260" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubhamr9172&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=00b4d8&icon_color=00b4d8" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamr9172&theme=tokyonight&hide_border=true&stroke=00b4d8&fire=00b4d8&ring=00b4d8" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamr9172&bg_color=0D1117&color=00f260&line=00f260&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamr9172&bg_color=0D1117&color=00b4d8&line=00b4d8&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shubhamr9172&theme=github_dark" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubhamr9172&label=VISITORS&color=00f260&style=for-the-badge" />
+  <a href="https://linkedin.com/in/shubham-reddy-b3a15b158"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubhamreddy9172@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shubhamr9172&label=MODEL_LOADS&color=00b4d8&style=for-the-badge" />
 </div>
